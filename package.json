@@ -1,0 +1,15 @@
+{
+  "name": "array-splitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "scripts": {
+    "test": "mocha \"*.spec.js\""
+  }
+}
